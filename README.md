@@ -66,8 +66,8 @@ Splash background uses a **radial gradient** with:
 
 | Screenshot | Description |  
 |------------|-------------|  
-| <p align="center"/><img src="screenshots/splashSc.png" alt="Splash Screen" width="250"/> | The **Splash Screen** applies Tween Animation (scale + rotate + translate + alpha) on logo with radial gradient background. |  
-| <p align="center"/><img src="screenshots/mainSc.jpeg" alt="Main Screen" width="250"/> | The **Main Screen** displays ImageView which plays **Frame-by-Frame animation** using AnimationDrawable. |
+| <p align="center"/><img src="https://github.com/BhavyaPatel272004/MAD_23012021031_Practical6/tree/master/Screensorts" alt="Splash Screen" width="250"/> | The **Splash Screen** applies Tween Animation (scale + rotate + translate + alpha) on logo with radial gradient background. |  
+| <p align="center"/><img src="" alt="Main Screen" width="250"/> | The **Main Screen** displays ImageView which plays **Frame-by-Frame animation** using AnimationDrawable. |
 
 ---
 
